@@ -1,10 +1,8 @@
 # Jaxa Spammer — Bulk Messaging Automation Tool
 
-> **Note:** This project is developed in **Turkish**. The interface, prompts, and system messages are all in Turkish.
-
 ## 📌 Overview
 
-Jaxa Spammer is a desktop automation tool designed for sending bulk or repetitive messages efficiently. It automates typing and sending actions to predefined targets or input fields, allowing users to manage multiple communication tasks with minimal effort.
+Jaxa Spammer is a desktop automation tool designed for sending bulk or repetitive messages efficiently working with Outlook. It automates typing and sending actions to predefined targets or input fields, allowing users to manage multiple communication tasks with minimal effort with bypassing spam filter rules as efficient as possible.
 
 ---
 
@@ -14,9 +12,7 @@ Jaxa Spammer is a desktop automation tool designed for sending bulk or repetitiv
 - Customizable message intervals  
 - Keyboard and mouse event simulation  
 - Target window detection  
-- Simple and lightweight interface  
-- Turkish-language UI and console messages  
-
+- Simple and lightweight interface 
 ---
 
 ## 📦 Version & Requirements
