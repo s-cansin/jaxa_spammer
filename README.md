@@ -21,36 +21,15 @@ Jaxa Spammer is a desktop automation tool designed for sending bulk or repetitiv
 
 **System Requirements:**
 
-- Python 3.11+  
-- Windows 10+  
-- Required Python packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-**Optional:**  
-- Administrator privileges may be required for automation features.
-
----
-
-## 🚀 Installation
-
-1. Download the latest release from the [Releases](https://github.com/s-cansin/jaxa_spammer/releases) page.  
-2. Extract the `.zip` file to a folder of your choice.  
-3. Open a terminal in that folder.  
-4. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Run the program:
-   ```bash
-   python main.py
-   ```
+- Outlook with logged-in email account
+- Windows XP+  
 
 ---
 
 ## ⚠️ Important Notes
 
+- Administrator privileges may be required for automation features.
+- Outlook may require permission since Jaxa spammer works along with Outlook email account.
 - The interface and console outputs are **in Turkish**.  
 - Use responsibly — this software is for educational and testing purposes only.  
 - Some systems may require administrator privileges to simulate key events.  
